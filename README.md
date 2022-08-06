@@ -12,7 +12,7 @@
   <a href="https://github.com/gugamcz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luisgustavo02&show_icons=true&theme=dark"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgustavo02&layout=compact&langs_count=7&theme=dark"/>
-  [![luisgustavo02's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luisgustavo02)](https://github.com/luisgustavo02/github-readme-stats)
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=luisgustavo02&layout=compact&langs_count=7&theme=dark">
 </div>
 <div><br>
   <img align="center" alt="Guga-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
