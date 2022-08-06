@@ -6,13 +6,13 @@
   <a href="https://www.linkedin.com/in/luís-gustavo-martins-3323141b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Meu nome é Luís Gustavo, tenho 20 anos e sou programador e estudante de engenharia eletrônica
+## Meu nome é Luís Gustavo, tenho 20 anos e sou programador e estudante de Engenharia Eletrônica
 
 <div>
   <a href="https://github.com/gugamcz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luisgustavo02&show_icons=true&theme=dark"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgustavo02&layout=compact&langs_count=7&theme=dark"/>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=luisgustavo02&layout=compact&langs_count=7&theme=dark">
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=luisgustavo02">
 </div>
 <div><br>
   <img align="center" alt="Guga-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
