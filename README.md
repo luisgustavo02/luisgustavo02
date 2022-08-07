@@ -1,4 +1,4 @@
-## Meu nome é Luís Gustavo, tenho 20 anos e sou programador e estudante de Engenharia Eletrônica
+# Luís Gustavo Martins Amaral
 
 <div> 
     <a href="https://www.youtube.com/channel/UCtByBohmZaqpMBYXR0HEqfA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
