@@ -10,8 +10,8 @@
 
 <div>
     <a href="https://github.com/gugamcz">
-    <img height="125em" src="https://github-readme-stats.vercel.app/api?username=luisgustavo02&show_icons=true&theme=dark"/>
-    <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgustavo02&layout=compact&langs_count=7&theme=dark"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luisgustavo02&show_icons=true&theme=dark"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgustavo02&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
 <div><br>
