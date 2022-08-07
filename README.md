@@ -16,8 +16,8 @@
 
 ## Sobre mim:
 
-- Estudante de Engenharia Eletrônica da UFPE.
-- Pós-junior da Dipolum Consultoria.
+- Estudante de Engenharia Eletrônica da <a target="_blank" href="https://www.ufpe.br">UFPE</a>.
+- Pós-junior da <a target="_blank" href="https://www.dipolum.com">Dipolum</a>.
 - Cursando Ciência de Dados pela EBAC.
 
 <div><br>
