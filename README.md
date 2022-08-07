@@ -13,7 +13,13 @@
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luisgustavo02&show_icons=true&theme=dark"/>
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgustavo02&layout=compact&langs_count=7&theme=dark"/>
 </div>
-    
+
+## Sobre mim:
+
+- Estudante de Engenharia Eletrônica da UFPE.
+- Pós-junior da Dipolum Consultoria.
+- Cursando Ciência de Dados pela EBAC.
+
 <div><br>
     <img align="center" alt="Guga-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Guga-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
