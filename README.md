@@ -16,10 +16,10 @@
 
 ## Sobre mim:
 
-- Estudante de Engenharia Eletrônica da <a target="_blank" href="https://www.ufpe.br">UFPE</a>.
-- Pós-junior da <a target="_blank" href="https://www.dipolum.com">Dipolum</a>.
-- Cursando Ciência de Dados pela EBAC.
-- Enxadrista desde 2015.
+- 💻 Estudante de Engenharia Eletrônica da <a target="_blank" href="https://www.ufpe.br">UFPE</a>.
+- 💡 Pós-junior da <a target="_blank" href="https://www.dipolum.com">Dipolum</a>.
+- 🎲 Cursando Ciência de Dados pela EBAC.
+- ♟️ Enxadrista desde 2015.
 
 <div><br>
     <img align="center" alt="Guga-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
