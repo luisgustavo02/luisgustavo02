@@ -1,4 +1,4 @@
-## Luís Gustavo Martins Amaral
+## Luís Gustavo
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lg.amaral.02@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luis.gustavo.02)
