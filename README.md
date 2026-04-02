@@ -6,14 +6,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/gugamcz)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtByBohmZaqpMBYXR0HEqfA)
 
-## Bem vindo ao meu perfil do GitHub
-
-<div>
-    <a href="https://github.com/gugamcz"></a>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luisgustavo02&show_icons=true&theme=dark"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgustavo02&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ## Sobre mim:
 
 - 💻 Estudante de Engenharia Eletrônica da <a target="_blank" href="https://www.ufpe.br">UFPE</a>.
