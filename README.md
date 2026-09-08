@@ -1,29 +1,65 @@
-## Hi! I'm Luís Gustavo
+🇺🇸🇬🇧
+
+# Hi there, I'm Luís Gustavo 👋 
+
+🎓 **Electronic Engineering Student @ UFPE** | 🔬 **Signal Processing & Embedded Systems Researcher** | 💡 **Data Science Student @ EBAC**
 
 ---
 
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lg.amaral.02@gmail.com) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luis.gustavo.02) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgustavomartinsamaral/) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/gugamcz) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@guga_code)
+### 📬 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgustavomartinsamaral/)
+[![Lattes](https://img.shields.io/badge/Lattes-Curriculo-blue?style=flat)](http://lattes.cnpq.br/0609090306414354)
+[![Email](https://img.shields.io/badge/Email-lg.amaral.02%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lg.amaral.02@gmail.com)
 
 ---
 
-## Sobre mim:
+### 🛠️ Tech Stack & Tools:
 
-- 💻 Estudante de Engenharia Eletrônica da <a target="_blank" href="https://www.ufpe.br">UFPE</a>.
-- 🔭 Pesquisador do grupo <a target="_blank" href="https://sites.ufpe.br/computacaobiomedica/">Computação Biomédica</a>.
-- 🎲 Cientista de Dados pela <a target="_blank" href="https://www.ebaconline.com.br">EBAC</a>.
-- 💡 Pós-junior da <a target="_blank" href="https://www.dipolum.com">Dipolum Consultoria</a>.
-- ♟️ Enxadrista desde 2015.
+* **Embedded & Hardware:** `C` | `C++` | `ESP32` | `STM32` | `LoRaWAN` | `FPGA (Cyclone IV)` | `KiCad` | `LTSpice`
+* **Software & Data Science:** `Python` | `R` | `Machine Learning` | `Image Processing` | `Linux` | `Git`
+* **Academic & Publishing:** `LaTeX` | `Signal Processing`
 
 ---
 
-## About me:
+### 🔭 Current Focus & Projects:
+* 📡 **LAPS/UFPE:** Embedded Firmware (C/ESP32) and LoRaWAN signal processing applications.
+* 🧬 **Biomedical Computing Research:** Image processing and AI models in Python for health solutions.
+* 🛡️ **Cybersecurity & AI:** Machine Learning tools applied to information security.
 
-- 💻 Studying Electronic Engineering at <a target="_blank" href="https://www.ufpe.br">UFPE</a>.
-- 🔭 Researcher in the <a target="_blank" href="https://sites.ufpe.br/computacaobiomedica/">Computacao Biomedica</a> group.
-- 🎲 Data Scientist at <a target="_blank" href="https://www.ebaconline.com.br">EBAC</a>.
-- 💡 Former member of <a target="_blank" href="https://www.dipolum.com">Dipolum Consultoria</a>.
-- ♟️ Chess player since 2015.
+---
 
-<div><br>
-    <img align="center" alt="Guga-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Guga-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"> <img align="center" alt="Guga-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
+⚡ *Fun fact: Passionate about chess, logic, and hardware prototyping.*
+
+---
+
+🇧🇷🇵🇹
+
+# Olá, eu sou o Luís Gustavo 👋 
+
+🎓 **Estudante de Engenharia Eletrônica @ UFPE** | 🔬 **Pesquisador na área de Processamento de Sinais & Sistemas Embarcados** | 💡 **Estudante de Ciência de Dados @ EBAC**
+
+---
+
+### 📬 Conecte comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgustavomartinsamaral/)
+[![Lattes](https://img.shields.io/badge/Lattes-Curriculo-blue?style=flat)](http://lattes.cnpq.br/0609090306414354)
+[![Email](https://img.shields.io/badge/Email-lg.amaral.02%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lg.amaral.02@gmail.com)
+
+---
+
+### 🛠️ Ferramentas e Habilidades:
+
+* **Embarcados & Hardware:** `C` | `C++` | `ESP32` | `STM32` | `LoRaWAN` | `FPGA (Cyclone IV)` | `KiCad` | `LTSpice`
+* **Software & Ciência de Dados:** `Python` | `R` | `Aprendizagem de Máquina` | `Processamento de Imagem` | `Linux` | `Git`
+* **Acadêmico & Publicação:** `LaTeX` | `Processamento de Sinais`
+
+---
+
+### 🔭 Foco & Projetos Atuais:
+* 📡 **LAPS/UFPE:** Firmware embarcado (C/ESP32) e Aplicações de Processamento de Sinal LoRaWAN.
+* 🧬 **Pesquisa em Computação Biomédica:** Processamento de imagem e modelos de IA em Python para soluções na área de saúde.
+* 🛡️ **Cyberseguraça & IA:** Ferramentas de Aprendizagem de Máquina aplicadas a segurança da informação.
+
+---
+
+⚡ *Fato curioso: Apaixonado por xadrez, lógica e prototipação de hardware.*
